@@ -3,9 +3,9 @@ Pod::Spec.new do |s|
   s.version  = '1.3.4'
   s.license  = 'MIT'
   s.summary  = 'Storage classes for datasource based controls.'
-  s.homepage = 'https://github.com/DenHeadless/DTModelStorage'
+  s.homepage = 'https://github.com/DepositDev/DTModelStorage'
   s.authors  = { 'Denys Telezhkin' => 'denys.telezhkin@yandex.ru' }
-  s.source   = { :git => 'https://github.com/DenHeadless/DTModelStorage.git', :tag => s.version.to_s }
+  s.source   = { :git => 'https://github.com/DepositDev/DTModelStorage', :tag => s.version.to_s }
   s.requires_arc = true
   s.platform = :ios,'6.0'
   s.ios.deployment_target = '6.0'
