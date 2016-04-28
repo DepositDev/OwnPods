@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.source_files = 'Noise/Sources/Noise/**/*.swift'
-  s.resources    = 'Noise/Sources/Noise/View/*.nib'
+  s.resources    = 'Noise/Sources/Noise/View/*.xib'
 end
