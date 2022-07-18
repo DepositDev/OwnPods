@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = "CrelloPrinter"
-  s.version               = "0.3.0"
+  s.version               = "0.3.2"
   s.summary               = "Crello fonts."
   s.homepage              = "https://gitlab.com/mykola.babkin/crelloprinter"
   s.license               = 'MIT'
